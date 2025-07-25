@@ -21,3 +21,28 @@ This is a Streamlit web app that predicts whether an auto insurance claim is **f
 - **NumPy**
 
 ---
+
+---
+
+## ✅ Features Used for Prediction
+
+The model expects the following features:
+- Age of Insured
+- Policy Premium
+- Vehicle Cost
+- Annual Mileage
+- Number of Vehicles Involved
+- Number of Witnesses
+- Number of Bodily Injuries
+
+---
+
+## ⚙️ Requirements
+
+You must have Python 3.7+ installed.
+
+Install required Python libraries using:
+
+```bash
+pip install streamlit scikit-learn joblib numpy
+
